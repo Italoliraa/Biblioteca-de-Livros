@@ -10,3 +10,17 @@ body{
 img{
     text-align: center;
 }
+
+.bible{
+    height: auto;
+    width: 50%;
+    margin: 0px auto;
+    /* background-color: rgb(38, 234, 54); */
+}
+h3{
+    text-align: center;
+}
+
+li{
+    margin-bottom: 5px;
+}
