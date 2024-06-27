@@ -24,3 +24,28 @@ h3{
 li{
     margin-bottom: 5px;
 }
+
+.option{
+    width: 50%;
+    margin: 0px auto;
+}
+
+.form{
+    width: 50%;
+    text-align: center;
+    margin: 0px auto;
+}
+a{
+    text-decoration: none;
+}
+button{
+    height: 35px;
+    border-radius: 20px;
+}
+button:hover{
+    transform: scale(1.2);
+    background-color: rgb(4, 4, 3);
+}
+a:hover{
+    color: rgb(34, 189, 34);
+}
